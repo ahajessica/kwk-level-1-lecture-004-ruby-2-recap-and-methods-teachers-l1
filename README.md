@@ -68,7 +68,7 @@ about_me
 
 **Students should all build an `about_me` method.**
 
-**Students should work on [Dance Instructions Lab]<!-- (https://github.com/learn-co-curriculum/kwk-l1-dance-instructions) -->** 15 minutes
+**Students should work on [Dance Instructions Lab](https://github.com/learn-co-curriculum/kwk-l1-dance-instructions)** about 35 minutes.
 
 **After the lab, give one more IRB demo to setup for tomorrow.**
 
