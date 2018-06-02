@@ -4,7 +4,7 @@
 
 Students get a review of the core concepts learned in the earlier lesson, puts, strings, math, and user input. Students get introduced to methods.
 
-## SWBAT
+## Students Will Be Able To (SWBAT)
 
 + METHODS - Define a method in ruby.
 + METHODS - Call a method in ruby.
@@ -21,10 +21,9 @@ Feel free to use [Ruby Recap and Methods Deck](https://docs.google.com/presentat
 
 + Reading Errors Review
 
-#### CFU 
+#### Check For Understanding (CFU) 
 
 Define puts and strings with an elbow partner. Share whole group.
-
 
 
 
